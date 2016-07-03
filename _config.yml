@@ -6,9 +6,9 @@ color:
   saturation: 0.5863567488268018
   rhythmicContrast: 0.153953978093341
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 name: Arc Stages
